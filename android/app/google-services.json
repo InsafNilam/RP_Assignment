@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "748477872997",
+    "firebase_url": "https://dht11-fb8a7-default-rtdb.firebaseio.com",
+    "project_id": "dht11-fb8a7",
+    "storage_bucket": "dht11-fb8a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748477872997:android:0e123172769e20f6e3bf8c",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748477872997-micl68v7at54aun5dth2hmru1d249rj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQU9Bc9vNAD9j4FXkwf4Eu0OokbAE7Q-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748477872997-f48i5qise2lgomshdof49ia6c5o8pl48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748477872997-a6ure4mm51hpgq0ibeh9qh755rr7fp4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartWheelchairCommunicationDeviceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748477872997:android:0afc42007ce35e95e3bf8c",
+        "android_client_info": {
+          "package_name": "com.example.robot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748477872997-20fnbcspdkdm56aslel3id5ke2gcalth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robot",
+            "certificate_hash": "b9b1d9fa3aec8717d4b4403396199e4f25d5c990"
+          }
+        },
+        {
+          "client_id": "748477872997-micl68v7at54aun5dth2hmru1d249rj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQU9Bc9vNAD9j4FXkwf4Eu0OokbAE7Q-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748477872997-f48i5qise2lgomshdof49ia6c5o8pl48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748477872997-a6ure4mm51hpgq0ibeh9qh755rr7fp4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartWheelchairCommunicationDeviceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
